@@ -1,0 +1,14 @@
+__pycache__
+atten_gpdl_model/
+atten_model/
+atten_model_three/
+atten_model_two/
+atten_routenet_model/
+atten_routenet_model_two/
+gpdl_model/
+npy_channel_test.py
+python_draw.py
+routenet_model/
+test_result/
+*.out
+training_set/
