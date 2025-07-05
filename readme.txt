@@ -1,3 +1,4 @@
+这是我的毕业论文源代码
+毕业论文题目为《集成电路数字后端可布线性》
+主要通过几个神经网络模型来对数字后端设计当中的布局布线过程中的可布线性进行预测
 
-a college student
-learning IC design and AI tech
